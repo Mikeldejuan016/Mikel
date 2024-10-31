@@ -1,0 +1,15 @@
+.titulos{
+    font-family: 'optima';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.texto{
+    font-family: Courier;
+    font-style: normal;
+    font-weight: normal;
+    
+}

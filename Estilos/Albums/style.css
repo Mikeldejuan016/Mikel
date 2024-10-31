@@ -1,0 +1,86 @@
+.contenedor{
+
+    display: flex;
+}
+
+.imagen_rectangular{
+    width: 150px;
+    margin-right: 10;
+}
+
+.imagen_cuadrada{
+    width: 100px;
+    margin-right: 10;
+}
+
+.albums{
+    width: 100%;
+    
+}
+
+.welcome{
+    padding-left: 10px;
+    margin-left: 57px;
+    margin-top: 18.5px;
+    float: left;
+    position: relative;
+    
+}
+
+.old{
+    padding-left: 10px;
+    margin-left: 10px;
+    float: left;
+    position: relative;
+    
+}
+
+.giant{
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: -18.5px;
+    float: left;
+    position: relative;
+    
+}
+
+.keoland{
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: -53.5px;
+    float: left;
+    position: relative;
+    
+}
+
+.albums2{
+    width: 100%;
+    
+
+}
+
+.back{
+    padding-left: 10px;
+    margin-left: 10px;
+    float: left;
+    position: relative;
+    
+}
+.rock{
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: -18.5px;
+    float: left;
+    position: relative;
+    
+}
+
+.byw{
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: -36.5px;
+    float: left;
+    position: relative;
+    
+}
+
